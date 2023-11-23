@@ -1,5 +1,6 @@
 # Proyecto_final
-Proyecto final de la Maestria de Ciencia de Datos. Integrantes: YUKIE TESHIBA ZUBIETA, JOSE MIGUEL RAMIREZ GALAN y JOSUE SANCHEZ ACOSTA
+Proyecto final de la Maestría de Ciencia de Datos. Integrantes: YUKIE TESHIBA ZUBIETA, JOSE MIGUEL RAMIREZ GALAN y JOSUE SANCHEZ ACOSTA
+
 # Proyecto Final - UDG_MCD_Project_Dev_I
 
 ## Descripción del Proyecto
@@ -46,5 +47,11 @@ Este repositorio es parte del proyecto final para la clase de UDG_MCD_Project_De
 ## Contribuciones y Problemas
 
 Si deseas contribuir o encuentras algún problema, por favor abre un issue en este repositorio.
+
+## Citación
+
+Si utilizas este trabajo en tu investigación, informe u otro trabajo académico, agradeceríamos que lo cites de la siguiente manera:
+
+Yukie Teshiba Zubieta, Jose Miguel Ramirez Galan y Josue Sanchez Acosta. 2023. "Análisis integral del cierre agronómico de todos los cultivos en México". Proyecto Final para el curso UDG_MCD_Project_development_1, [Nombre de la Institución]. Repositorio: https://github.com/UrsuzEremita/Proyecto_final
 
 ¡Gracias por tu interés en el proyecto!
