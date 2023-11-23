@@ -40,9 +40,8 @@ Este repositorio es parte del proyecto final para la clase de UDG_MCD_Project_De
 ## Estructura del Repositorio
 
 - **/data:** Espacio para los archivos de datos descargados.
-- **/notebooks:** Contendrá los archivos Jupyter Notebook con el código del proyecto.
-- **/images:** Directorio para almacenar imágenes utilizadas en la documentación y visualizaciones.
-- **/results:** Destinado para almacenar los resultados generados durante el análisis.
+- **/SRC:** Contendrá los archivos Jupyter Notebook con el código del proyecto.
+- **/results:** Destinado para almacenar los resultados generados durante el análisis e imágenes utilizadas en la documentación y visualizaciones.
 
 ## Contribuciones y Problemas
 
