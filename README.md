@@ -5,27 +5,27 @@ Proyecto final de la Maestría de Ciencia de Datos. Integrantes: YUKIE TESHIBA Z
 
 ## Descripción del Proyecto
 
-Este repositorio es parte del proyecto final para la clase de UDG_MCD_Project_Dev_I. El objetivo principal es realizar un análisis integral del cierre agronómico de todos los cultivos en México. Este README proporciona una visión general de los objetivos y la estructura del proyecto.
+Este repositorio es parte del proyecto final para la clase de UDG_MCD_Project_Dev_I. El objetivo principal es realizar un análisis integral del cierre agronómico de todos los cultivos en México, con un enfoque especial en el cultivo de berries, que incluye arándanos, frambuesas, fresas y zarzamoras.
 
 ## Objetivos del Proyecto
 
 1. **Visualizaciones Interactivas:**
-   - Utilizar Altair para crear visualizaciones interactivas que representen los datos del cierre agronómico de manera efectiva.
+   - Utilizar Altair para crear visualizaciones interactivas que representen los datos del cierre agronómico de los cultivos, destacando la producción de berries.
 
 2. **Consulta de Información en la Web:**
-   - Explorar técnicas de scraping para obtener información relevante de redes sociales o sitios web relacionados con los cultivos en México.
+   - Explorar técnicas de scraping para obtener información relevante de redes sociales o sitios web relacionados con la producción y demanda de berries en México.
 
 3. **Análisis de Texto:**
-   - Aplicar técnicas de preprocesamiento y análisis de texto utilizando diversas herramientas disponibles en Python.
+   - Aplicar técnicas de preprocesamiento y análisis de texto para comprender las tendencias y opiniones en torno al cultivo de berries.
 
 4. **Herramientas de Análisis de Texto:**
-   - Investigar el uso de herramientas como n-grams, wordclouds, y análisis de sentimiento para obtener perspectivas adicionales sobre los datos textuales.
+   - Investigar el uso de herramientas como n-grams, wordclouds y análisis de sentimiento específicamente aplicadas a textos relacionados con berries.
 
 5. **Desarrollo de Mapas:**
-   - Utilizar bibliotecas como GeoPandas o Folium para crear mapas que visualicen la distribución geográfica de los cultivos en México.
+   - Utilizar bibliotecas como GeoPandas o Folium para crear mapas que visualicen la distribución geográfica de la producción de berries en México.
 
 6. **Exploración de ChatGPT:**
-   - Investigar el uso de herramientas de ChatGPT en Python para mejorar la interactividad del proyecto.
+   - Investigar el uso de herramientas de ChatGPT en Python para mejorar la interactividad del proyecto, respondiendo preguntas específicas sobre el cultivo de berries.
 
 ## Instrucciones Iniciales
 
@@ -55,3 +55,4 @@ Si utilizas este trabajo en tu investigación, informe u otro trabajo académico
 Yukie Teshiba Zubieta, Jose Miguel Ramirez Galan y Josue Sanchez Acosta. 2023. "Análisis integral del cierre agronómico de todos los cultivos en México". Proyecto Final para el curso UDG_MCD_Project_development_1, [Nombre de la Institución]. Repositorio: https://github.com/UrsuzEremita/Proyecto_final
 
 ¡Gracias por tu interés en el proyecto!
+
