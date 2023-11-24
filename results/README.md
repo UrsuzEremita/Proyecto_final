@@ -10,6 +10,7 @@ Esta carpeta contiene visualizaciones y resultados generados durante el proyecto
 ## Nube de Palabras y Análisis de Sentimientos sobre Berries
 
 - **Archivo Nube de Palabras:** `results/nube_palabras.png`
+- **Archivo mapa de geomaps:** ´results/Mapa_calor_berrie_por_estado.png
 - **Archivo Análisis de Sentimientos VADER:** `results/Sentiment analysis Vender.txt`
 - **Archivo Polaridad:** `results/polaridad.png`
 - **Descripción:** La nube de palabras visualiza las palabras más frecuentes en publicaciones sobre berries dentro del contexto del cierre agronómico. El análisis de sentimientos VADER (Sentiment analysis Vender.txt) proporciona una evaluación de la polaridad de las opiniones expresadas. La visualización de polaridad (polaridad.png) destaca la distribución de las polaridades en las publicaciones.
