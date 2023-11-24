@@ -5,7 +5,7 @@ Esta carpeta contiene visualizaciones y resultados generados durante el proyecto
 ## Mapa de Calor de Producción de Berries por Estado
 
 - **Archivo:** `results/Mapa_calor_berrie_por_estado.png`
-- **Descripción:** Mapa de calor que representa la producción de berries por estado en el año 2022, específicamente dentro del contexto del cierre agronómico. Generado a partir del análisis de datos utilizando Seaborn y Matplotlib en el archivo `UDG_MCD_Project_Dev_I_CIERRE_AGRICOLA (2).ipynb`.
+- **Descripción:** Mapa de calor que representa la producción de berries por estado en el año 2022, específicamente dentro del contexto del cierre agronómico. Generado a partir del análisis de datos utilizando Seaborn y Matplotlib en el archivo `UDG_MCD_Project_Dev_I_CIERRE_AGRICOLA (4).ipynb`.
 
 ## Nube de Palabras y Análisis de Sentimientos sobre Berries
 
