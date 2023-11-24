@@ -11,7 +11,7 @@ En el archivo `UDG_MCD_Project_Dev_I_CIERRE_AGRICOLA (2).ipynb`, se encuentra el
 #### Instrucciones para Ejecutar el Código:
 
 1. Asegúrate de tener Python y las bibliotecas necesarias instaladas.
-2. Abre el archivo `UDG_MCD_Project_Dev_I_CIERRE_AGRICOLA (2).ipynb` en Jupyter Notebook.
+2. Abre el archivo `UDG_MCD_Project_Dev_I_CIERRE_AGRICOLA (4).ipynb` en Jupyter Notebook.
 3. Ejecuta cada celda de código para reproducir el mapa de calor.
 
 ### Análisis de Sentimientos con VADER y Nube de Palabras
