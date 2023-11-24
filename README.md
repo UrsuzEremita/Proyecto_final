@@ -1,11 +1,6 @@
-# Proyecto_final
-Proyecto final de la Maestría de Ciencia de Datos. Integrantes: YUKIE TESHIBA ZUBIETA, JOSE MIGUEL RAMIREZ GALAN y JOSUE SANCHEZ ACOSTA
+# Proyecto Final - Análisis Agronómico de la Producción de Berries en México
 
-# Proyecto Final - UDG_MCD_Project_Dev_I
-
-## Descripción del Proyecto
-
-Este repositorio es parte del proyecto final para la clase de UDG_MCD_Project_Dev_I. El objetivo principal es realizar un análisis integral del cierre agronómico de todos los cultivos en México, con un enfoque especial en el cultivo de berries, que incluye arándanos, frambuesas, fresas y zarzamoras.
+Este repositorio forma parte del proyecto final para la clase de UDG_MCD_Project_Dev_I, como parte del programa de Maestría en Ciencia de Datos. El proyecto se centra en realizar un análisis exhaustivo del cierre agronómico de todos los cultivos en México, con especial atención en el cultivo de berries, que incluye arándanos, frambuesas, fresas y zarzamoras.
 
 ## Objetivos del Proyecto
 
@@ -55,4 +50,3 @@ Si utilizas este trabajo en tu investigación, informe u otro trabajo académico
 Yukie Teshiba Zubieta, Jose Miguel Ramirez Galan y Josue Sanchez Acosta. 2023. "Análisis integral del cierre agronómico de todos los cultivos en México". Proyecto Final para el curso UDG_MCD_Project_development_1, [Nombre de la Institución]. Repositorio: https://github.com/UrsuzEremita/Proyecto_final
 
 ¡Gracias por tu interés en el proyecto!
-
