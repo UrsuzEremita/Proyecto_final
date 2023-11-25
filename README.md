@@ -38,6 +38,7 @@ Este repositorio forma parte del proyecto final para la clase de UDG_MCD_Project
 - **/data:** Espacio para los archivos de datos descargados.
 - **/SRC:** Contendrá los archivos Jupyter Notebook con el código del proyecto.
 - **/results:** Destinado para almacenar los resultados generados durante el análisis e imágenes utilizadas en la documentación y visualizaciones.
+Se agregan los links para archivo markdown con resultados detallados [link](https://github.com/UrsuzEremita/Proyecto_final/blob/main/results/README.md) y al análisis en jupyter notebook [link1](https://github.com/UrsuzEremita/Proyecto_final/blob/main/src/UDG_MCD_Project_Dev_I_CIERRE_AGRICOLA%20(4).ipynb) y [link2](https://github.com/UrsuzEremita/Proyecto_final/blob/main/src/AnalisisSent.ipynb) .
 
 ## Contribuciones y Problemas
 
